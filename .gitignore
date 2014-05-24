@@ -1,7 +1,7 @@
 *
 !.gitignore
 !src
-!gradle
+!gradlew
 !README.md
 !LICENSE
 !build.gradle
