@@ -1,2 +1,7 @@
-.gradle
-build/
+*
+!.gitignore
+!src
+!gradle
+!README.md
+!LICENSE
+!build.gradle
